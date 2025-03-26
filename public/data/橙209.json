@@ -1,0 +1,161 @@
+{
+  "seats": [
+    {
+      "row": 1,
+      "position": 1,
+      "id": "橙209-19排-1號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 1,
+      "id": "橙209-19排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 1,
+      "id": "橙209-19排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 1,
+      "id": "橙209-19排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 1,
+      "id": "橙209-19排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 1,
+      "id": "橙209-19排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 1,
+      "id": "橙209-19排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 1,
+      "id": "橙209-19排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 1,
+      "id": "橙209-19排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 1,
+      "id": "橙209-19排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 1,
+      "id": "橙209-19排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 1,
+      "id": "橙209-19排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 1,
+      "id": "橙209-19排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 1,
+      "id": "橙209-19排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 1,
+      "id": "橙209-19排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 1,
+      "id": "橙209-19排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 1,
+      "id": "橙209-19排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 1,
+      "id": "橙209-19排-18號",
+      "type": "sold"
+    },
+    {
+      "row": 19,
+      "position": 1,
+      "id": "橙209-19排-19號",
+      "type": "sold"
+    },
+    {
+      "row": 20,
+      "position": 1,
+      "id": "橙209-19排-20號",
+      "type": "sold"
+    },
+    {
+      "row": 21,
+      "position": 1,
+      "id": "橙209-19排-21號",
+      "type": "sold"
+    },
+    {
+      "row": 22,
+      "position": 1,
+      "id": "橙209-19排-22號",
+      "type": "sold"
+    },
+    {
+      "row": 23,
+      "position": 1,
+      "id": "橙209-19排-23號",
+      "type": "sold"
+    },
+    {
+      "row": 24,
+      "position": 1,
+      "id": "橙209-19排-24號",
+      "type": "sold"
+    },
+    {
+      "row": 25,
+      "position": 1,
+      "id": "橙209-19排-25號",
+      "type": "empty"
+    },
+    {
+      "row": 26,
+      "position": 1,
+      "id": "橙209-19排-26號",
+      "type": "empty"
+    }
+  ],
+  "none_positions": []
+}

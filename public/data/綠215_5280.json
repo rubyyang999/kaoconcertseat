@@ -1,0 +1,2420 @@
+{
+  "seats": [
+    {
+      "row": 1,
+      "position": 1,
+      "id": "綠215-1排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 1,
+      "position": 2,
+      "id": "綠215-1排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 1,
+      "position": 3,
+      "id": "綠215-1排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 1,
+      "position": 4,
+      "id": "綠215-1排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 1,
+      "position": 5,
+      "id": "綠215-1排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 1,
+      "position": 6,
+      "id": "綠215-1排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 1,
+      "position": 7,
+      "id": "綠215-1排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 1,
+      "position": 8,
+      "id": "綠215-1排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 1,
+      "position": 9,
+      "id": "綠215-1排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 1,
+      "id": "綠215-2排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 2,
+      "id": "綠215-2排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 3,
+      "id": "綠215-2排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 4,
+      "id": "綠215-2排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 5,
+      "id": "綠215-2排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 6,
+      "id": "綠215-2排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 7,
+      "id": "綠215-2排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 8,
+      "id": "綠215-2排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 9,
+      "id": "綠215-2排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 2,
+      "position": 10,
+      "id": "綠215-2排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 1,
+      "id": "綠215-3排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 2,
+      "id": "綠215-3排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 3,
+      "id": "綠215-3排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 4,
+      "id": "綠215-3排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 5,
+      "id": "綠215-3排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 6,
+      "id": "綠215-3排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 7,
+      "id": "綠215-3排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 8,
+      "id": "綠215-3排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 9,
+      "id": "綠215-3排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 10,
+      "id": "綠215-3排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 3,
+      "position": 11,
+      "id": "綠215-3排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 1,
+      "id": "綠215-4排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 2,
+      "id": "綠215-4排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 3,
+      "id": "綠215-4排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 4,
+      "id": "綠215-4排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 5,
+      "id": "綠215-4排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 6,
+      "id": "綠215-4排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 7,
+      "id": "綠215-4排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 8,
+      "id": "綠215-4排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 9,
+      "id": "綠215-4排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 10,
+      "id": "綠215-4排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 11,
+      "id": "綠215-4排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 4,
+      "position": 12,
+      "id": "綠215-4排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 1,
+      "id": "綠215-5排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 2,
+      "id": "綠215-5排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 3,
+      "id": "綠215-5排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 4,
+      "id": "綠215-5排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 5,
+      "id": "綠215-5排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 6,
+      "id": "綠215-5排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 7,
+      "id": "綠215-5排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 8,
+      "id": "綠215-5排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 9,
+      "id": "綠215-5排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 10,
+      "id": "綠215-5排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 11,
+      "id": "綠215-5排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 12,
+      "id": "綠215-5排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 5,
+      "position": 13,
+      "id": "綠215-5排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 1,
+      "id": "綠215-6排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 2,
+      "id": "綠215-6排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 3,
+      "id": "綠215-6排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 4,
+      "id": "綠215-6排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 5,
+      "id": "綠215-6排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 6,
+      "id": "綠215-6排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 7,
+      "id": "綠215-6排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 8,
+      "id": "綠215-6排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 9,
+      "id": "綠215-6排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 10,
+      "id": "綠215-6排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 11,
+      "id": "綠215-6排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 12,
+      "id": "綠215-6排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 13,
+      "id": "綠215-6排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 6,
+      "position": 14,
+      "id": "綠215-6排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 1,
+      "id": "綠215-7排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 2,
+      "id": "綠215-7排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 3,
+      "id": "綠215-7排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 4,
+      "id": "綠215-7排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 5,
+      "id": "綠215-7排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 6,
+      "id": "綠215-7排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 7,
+      "id": "綠215-7排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 8,
+      "id": "綠215-7排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 9,
+      "id": "綠215-7排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 10,
+      "id": "綠215-7排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 11,
+      "id": "綠215-7排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 12,
+      "id": "綠215-7排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 13,
+      "id": "綠215-7排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 14,
+      "id": "綠215-7排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 7,
+      "position": 15,
+      "id": "綠215-7排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 1,
+      "id": "綠215-8排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 2,
+      "id": "綠215-8排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 3,
+      "id": "綠215-8排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 4,
+      "id": "綠215-8排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 5,
+      "id": "綠215-8排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 6,
+      "id": "綠215-8排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 7,
+      "id": "綠215-8排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 8,
+      "id": "綠215-8排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 9,
+      "id": "綠215-8排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 10,
+      "id": "綠215-8排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 11,
+      "id": "綠215-8排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 12,
+      "id": "綠215-8排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 13,
+      "id": "綠215-8排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 14,
+      "id": "綠215-8排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 15,
+      "id": "綠215-8排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 8,
+      "position": 16,
+      "id": "綠215-8排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 1,
+      "id": "綠215-9排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 2,
+      "id": "綠215-9排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 3,
+      "id": "綠215-9排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 4,
+      "id": "綠215-9排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 5,
+      "id": "綠215-9排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 6,
+      "id": "綠215-9排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 7,
+      "id": "綠215-9排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 8,
+      "id": "綠215-9排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 9,
+      "id": "綠215-9排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 10,
+      "id": "綠215-9排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 11,
+      "id": "綠215-9排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 12,
+      "id": "綠215-9排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 13,
+      "id": "綠215-9排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 14,
+      "id": "綠215-9排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 15,
+      "id": "綠215-9排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 16,
+      "id": "綠215-9排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 9,
+      "position": 17,
+      "id": "綠215-9排-18號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 1,
+      "id": "綠215-10排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 2,
+      "id": "綠215-10排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 3,
+      "id": "綠215-10排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 4,
+      "id": "綠215-10排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 5,
+      "id": "綠215-10排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 6,
+      "id": "綠215-10排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 7,
+      "id": "綠215-10排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 8,
+      "id": "綠215-10排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 9,
+      "id": "綠215-10排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 10,
+      "id": "綠215-10排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 11,
+      "id": "綠215-10排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 12,
+      "id": "綠215-10排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 13,
+      "id": "綠215-10排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 14,
+      "id": "綠215-10排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 15,
+      "id": "綠215-10排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 16,
+      "id": "綠215-10排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 17,
+      "id": "綠215-10排-18號",
+      "type": "sold"
+    },
+    {
+      "row": 10,
+      "position": 18,
+      "id": "綠215-10排-19號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 1,
+      "id": "綠215-11排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 2,
+      "id": "綠215-11排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 3,
+      "id": "綠215-11排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 4,
+      "id": "綠215-11排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 5,
+      "id": "綠215-11排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 6,
+      "id": "綠215-11排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 7,
+      "id": "綠215-11排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 8,
+      "id": "綠215-11排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 9,
+      "id": "綠215-11排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 10,
+      "id": "綠215-11排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 11,
+      "id": "綠215-11排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 12,
+      "id": "綠215-11排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 13,
+      "id": "綠215-11排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 14,
+      "id": "綠215-11排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 15,
+      "id": "綠215-11排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 16,
+      "id": "綠215-11排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 17,
+      "id": "綠215-11排-18號",
+      "type": "sold"
+    },
+    {
+      "row": 11,
+      "position": 18,
+      "id": "綠215-11排-19號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 1,
+      "id": "綠215-12排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 2,
+      "id": "綠215-12排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 3,
+      "id": "綠215-12排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 4,
+      "id": "綠215-12排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 5,
+      "id": "綠215-12排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 6,
+      "id": "綠215-12排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 7,
+      "id": "綠215-12排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 8,
+      "id": "綠215-12排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 9,
+      "id": "綠215-12排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 10,
+      "id": "綠215-12排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 11,
+      "id": "綠215-12排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 12,
+      "id": "綠215-12排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 13,
+      "id": "綠215-12排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 14,
+      "id": "綠215-12排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 15,
+      "id": "綠215-12排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 16,
+      "id": "綠215-12排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 17,
+      "id": "綠215-12排-18號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 18,
+      "id": "綠215-12排-19號",
+      "type": "sold"
+    },
+    {
+      "row": 12,
+      "position": 19,
+      "id": "綠215-12排-20號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 1,
+      "id": "綠215-13排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 2,
+      "id": "綠215-13排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 3,
+      "id": "綠215-13排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 4,
+      "id": "綠215-13排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 5,
+      "id": "綠215-13排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 6,
+      "id": "綠215-13排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 7,
+      "id": "綠215-13排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 8,
+      "id": "綠215-13排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 9,
+      "id": "綠215-13排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 10,
+      "id": "綠215-13排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 11,
+      "id": "綠215-13排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 12,
+      "id": "綠215-13排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 13,
+      "id": "綠215-13排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 14,
+      "id": "綠215-13排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 15,
+      "id": "綠215-13排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 16,
+      "id": "綠215-13排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 17,
+      "id": "綠215-13排-18號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 18,
+      "id": "綠215-13排-19號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 19,
+      "id": "綠215-13排-20號",
+      "type": "sold"
+    },
+    {
+      "row": 13,
+      "position": 20,
+      "id": "綠215-13排-21號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 1,
+      "id": "綠215-14排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 2,
+      "id": "綠215-14排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 3,
+      "id": "綠215-14排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 4,
+      "id": "綠215-14排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 5,
+      "id": "綠215-14排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 6,
+      "id": "綠215-14排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 7,
+      "id": "綠215-14排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 8,
+      "id": "綠215-14排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 9,
+      "id": "綠215-14排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 10,
+      "id": "綠215-14排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 11,
+      "id": "綠215-14排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 12,
+      "id": "綠215-14排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 13,
+      "id": "綠215-14排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 14,
+      "id": "綠215-14排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 15,
+      "id": "綠215-14排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 16,
+      "id": "綠215-14排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 17,
+      "id": "綠215-14排-18號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 18,
+      "id": "綠215-14排-19號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 19,
+      "id": "綠215-14排-20號",
+      "type": "empty"
+    },
+    {
+      "row": 14,
+      "position": 20,
+      "id": "綠215-14排-21號",
+      "type": "sold"
+    },
+    {
+      "row": 14,
+      "position": 21,
+      "id": "綠215-14排-22號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 1,
+      "id": "綠215-15排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 2,
+      "id": "綠215-15排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 3,
+      "id": "綠215-15排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 4,
+      "id": "綠215-15排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 5,
+      "id": "綠215-15排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 6,
+      "id": "綠215-15排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 7,
+      "id": "綠215-15排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 8,
+      "id": "綠215-15排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 9,
+      "id": "綠215-15排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 10,
+      "id": "綠215-15排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 11,
+      "id": "綠215-15排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 12,
+      "id": "綠215-15排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 13,
+      "id": "綠215-15排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 14,
+      "id": "綠215-15排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 15,
+      "id": "綠215-15排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 16,
+      "id": "綠215-15排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 17,
+      "id": "綠215-15排-18號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 18,
+      "id": "綠215-15排-19號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 19,
+      "id": "綠215-15排-20號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 20,
+      "id": "綠215-15排-21號",
+      "type": "sold"
+    },
+    {
+      "row": 15,
+      "position": 21,
+      "id": "綠215-15排-22號",
+      "type": "empty"
+    },
+    {
+      "row": 15,
+      "position": 22,
+      "id": "綠215-15排-23號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 1,
+      "id": "綠215-16排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 2,
+      "id": "綠215-16排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 3,
+      "id": "綠215-16排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 4,
+      "id": "綠215-16排-5號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 5,
+      "id": "綠215-16排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 6,
+      "id": "綠215-16排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 7,
+      "id": "綠215-16排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 8,
+      "id": "綠215-16排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 9,
+      "id": "綠215-16排-10號",
+      "type": "empty"
+    },
+    {
+      "row": 16,
+      "position": 10,
+      "id": "綠215-16排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 11,
+      "id": "綠215-16排-12號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 12,
+      "id": "綠215-16排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 13,
+      "id": "綠215-16排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 14,
+      "id": "綠215-16排-15號",
+      "type": "empty"
+    },
+    {
+      "row": 16,
+      "position": 15,
+      "id": "綠215-16排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 16,
+      "id": "綠215-16排-17號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 17,
+      "id": "綠215-16排-18號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 18,
+      "id": "綠215-16排-19號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 19,
+      "id": "綠215-16排-20號",
+      "type": "sold"
+    },
+    {
+      "row": 16,
+      "position": 20,
+      "id": "綠215-16排-21號",
+      "type": "empty"
+    },
+    {
+      "row": 16,
+      "position": 21,
+      "id": "綠215-16排-22號",
+      "type": "empty"
+    },
+    {
+      "row": 16,
+      "position": 22,
+      "id": "綠215-16排-23號",
+      "type": "empty"
+    },
+    {
+      "row": 16,
+      "position": 23,
+      "id": "綠215-16排-24號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 1,
+      "id": "綠215-17排-2號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 2,
+      "id": "綠215-17排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 3,
+      "id": "綠215-17排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 4,
+      "id": "綠215-17排-5號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 5,
+      "id": "綠215-17排-6號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 6,
+      "id": "綠215-17排-7號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 7,
+      "id": "綠215-17排-8號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 8,
+      "id": "綠215-17排-9號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 9,
+      "id": "綠215-17排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 10,
+      "id": "綠215-17排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 11,
+      "id": "綠215-17排-12號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 12,
+      "id": "綠215-17排-13號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 13,
+      "id": "綠215-17排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 14,
+      "id": "綠215-17排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 15,
+      "id": "綠215-17排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 16,
+      "id": "綠215-17排-17號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 17,
+      "id": "綠215-17排-18號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 18,
+      "id": "綠215-17排-19號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 19,
+      "id": "綠215-17排-20號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 20,
+      "id": "綠215-17排-21號",
+      "type": "empty"
+    },
+    {
+      "row": 17,
+      "position": 21,
+      "id": "綠215-17排-22號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 22,
+      "id": "綠215-17排-23號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 23,
+      "id": "綠215-17排-24號",
+      "type": "sold"
+    },
+    {
+      "row": 17,
+      "position": 24,
+      "id": "綠215-17排-25號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 1,
+      "id": "綠215-18排-2號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 2,
+      "id": "綠215-18排-3號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 3,
+      "id": "綠215-18排-4號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 4,
+      "id": "綠215-18排-5號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 5,
+      "id": "綠215-18排-6號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 6,
+      "id": "綠215-18排-7號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 7,
+      "id": "綠215-18排-8號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 8,
+      "id": "綠215-18排-9號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 9,
+      "id": "綠215-18排-10號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 10,
+      "id": "綠215-18排-11號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 11,
+      "id": "綠215-18排-12號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 12,
+      "id": "綠215-18排-13號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 13,
+      "id": "綠215-18排-14號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 14,
+      "id": "綠215-18排-15號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 15,
+      "id": "綠215-18排-16號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 16,
+      "id": "綠215-18排-17號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 17,
+      "id": "綠215-18排-18號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 18,
+      "id": "綠215-18排-19號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 19,
+      "id": "綠215-18排-20號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 20,
+      "id": "綠215-18排-21號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 21,
+      "id": "綠215-18排-22號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 22,
+      "id": "綠215-18排-23號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 23,
+      "id": "綠215-18排-24號",
+      "type": "empty"
+    },
+    {
+      "row": 18,
+      "position": 24,
+      "id": "綠215-18排-25號",
+      "type": "sold"
+    },
+    {
+      "row": 18,
+      "position": 25,
+      "id": "綠215-18排-26號",
+      "type": "sold"
+    }
+  ],
+  "none_positions": [
+    {
+      "row": 1,
+      "position": 10
+    },
+    {
+      "row": 1,
+      "position": 11
+    },
+    {
+      "row": 1,
+      "position": 12
+    },
+    {
+      "row": 1,
+      "position": 13
+    },
+    {
+      "row": 1,
+      "position": 14
+    },
+    {
+      "row": 1,
+      "position": 15
+    },
+    {
+      "row": 1,
+      "position": 16
+    },
+    {
+      "row": 1,
+      "position": 17
+    },
+    {
+      "row": 1,
+      "position": 18
+    },
+    {
+      "row": 1,
+      "position": 19
+    },
+    {
+      "row": 1,
+      "position": 20
+    },
+    {
+      "row": 1,
+      "position": 21
+    },
+    {
+      "row": 1,
+      "position": 22
+    },
+    {
+      "row": 1,
+      "position": 23
+    },
+    {
+      "row": 1,
+      "position": 24
+    },
+    {
+      "row": 1,
+      "position": 25
+    },
+    {
+      "row": 2,
+      "position": 11
+    },
+    {
+      "row": 2,
+      "position": 12
+    },
+    {
+      "row": 2,
+      "position": 13
+    },
+    {
+      "row": 2,
+      "position": 14
+    },
+    {
+      "row": 2,
+      "position": 15
+    },
+    {
+      "row": 2,
+      "position": 16
+    },
+    {
+      "row": 2,
+      "position": 17
+    },
+    {
+      "row": 2,
+      "position": 18
+    },
+    {
+      "row": 2,
+      "position": 19
+    },
+    {
+      "row": 2,
+      "position": 20
+    },
+    {
+      "row": 2,
+      "position": 21
+    },
+    {
+      "row": 2,
+      "position": 22
+    },
+    {
+      "row": 2,
+      "position": 23
+    },
+    {
+      "row": 2,
+      "position": 24
+    },
+    {
+      "row": 2,
+      "position": 25
+    },
+    {
+      "row": 3,
+      "position": 12
+    },
+    {
+      "row": 3,
+      "position": 13
+    },
+    {
+      "row": 3,
+      "position": 14
+    },
+    {
+      "row": 3,
+      "position": 15
+    },
+    {
+      "row": 3,
+      "position": 16
+    },
+    {
+      "row": 3,
+      "position": 17
+    },
+    {
+      "row": 3,
+      "position": 18
+    },
+    {
+      "row": 3,
+      "position": 19
+    },
+    {
+      "row": 3,
+      "position": 20
+    },
+    {
+      "row": 3,
+      "position": 21
+    },
+    {
+      "row": 3,
+      "position": 22
+    },
+    {
+      "row": 3,
+      "position": 23
+    },
+    {
+      "row": 3,
+      "position": 24
+    },
+    {
+      "row": 3,
+      "position": 25
+    },
+    {
+      "row": 4,
+      "position": 13
+    },
+    {
+      "row": 4,
+      "position": 14
+    },
+    {
+      "row": 4,
+      "position": 15
+    },
+    {
+      "row": 4,
+      "position": 16
+    },
+    {
+      "row": 4,
+      "position": 17
+    },
+    {
+      "row": 4,
+      "position": 18
+    },
+    {
+      "row": 4,
+      "position": 19
+    },
+    {
+      "row": 4,
+      "position": 20
+    },
+    {
+      "row": 4,
+      "position": 21
+    },
+    {
+      "row": 4,
+      "position": 22
+    },
+    {
+      "row": 4,
+      "position": 23
+    },
+    {
+      "row": 4,
+      "position": 24
+    },
+    {
+      "row": 4,
+      "position": 25
+    },
+    {
+      "row": 5,
+      "position": 14
+    },
+    {
+      "row": 5,
+      "position": 15
+    },
+    {
+      "row": 5,
+      "position": 16
+    },
+    {
+      "row": 5,
+      "position": 17
+    },
+    {
+      "row": 5,
+      "position": 18
+    },
+    {
+      "row": 5,
+      "position": 19
+    },
+    {
+      "row": 5,
+      "position": 20
+    },
+    {
+      "row": 5,
+      "position": 21
+    },
+    {
+      "row": 5,
+      "position": 22
+    },
+    {
+      "row": 5,
+      "position": 23
+    },
+    {
+      "row": 5,
+      "position": 24
+    },
+    {
+      "row": 5,
+      "position": 25
+    },
+    {
+      "row": 6,
+      "position": 15
+    },
+    {
+      "row": 6,
+      "position": 16
+    },
+    {
+      "row": 6,
+      "position": 17
+    },
+    {
+      "row": 6,
+      "position": 18
+    },
+    {
+      "row": 6,
+      "position": 19
+    },
+    {
+      "row": 6,
+      "position": 20
+    },
+    {
+      "row": 6,
+      "position": 21
+    },
+    {
+      "row": 6,
+      "position": 22
+    },
+    {
+      "row": 6,
+      "position": 23
+    },
+    {
+      "row": 6,
+      "position": 24
+    },
+    {
+      "row": 6,
+      "position": 25
+    },
+    {
+      "row": 7,
+      "position": 16
+    },
+    {
+      "row": 7,
+      "position": 17
+    },
+    {
+      "row": 7,
+      "position": 18
+    },
+    {
+      "row": 7,
+      "position": 19
+    },
+    {
+      "row": 7,
+      "position": 20
+    },
+    {
+      "row": 7,
+      "position": 21
+    },
+    {
+      "row": 7,
+      "position": 22
+    },
+    {
+      "row": 7,
+      "position": 23
+    },
+    {
+      "row": 7,
+      "position": 24
+    },
+    {
+      "row": 7,
+      "position": 25
+    },
+    {
+      "row": 8,
+      "position": 17
+    },
+    {
+      "row": 8,
+      "position": 18
+    },
+    {
+      "row": 8,
+      "position": 19
+    },
+    {
+      "row": 8,
+      "position": 20
+    },
+    {
+      "row": 8,
+      "position": 21
+    },
+    {
+      "row": 8,
+      "position": 22
+    },
+    {
+      "row": 8,
+      "position": 23
+    },
+    {
+      "row": 8,
+      "position": 24
+    },
+    {
+      "row": 8,
+      "position": 25
+    },
+    {
+      "row": 9,
+      "position": 18
+    },
+    {
+      "row": 9,
+      "position": 19
+    },
+    {
+      "row": 9,
+      "position": 20
+    },
+    {
+      "row": 9,
+      "position": 21
+    },
+    {
+      "row": 9,
+      "position": 22
+    },
+    {
+      "row": 9,
+      "position": 23
+    },
+    {
+      "row": 9,
+      "position": 24
+    },
+    {
+      "row": 9,
+      "position": 25
+    },
+    {
+      "row": 10,
+      "position": 19
+    },
+    {
+      "row": 10,
+      "position": 20
+    },
+    {
+      "row": 10,
+      "position": 21
+    },
+    {
+      "row": 10,
+      "position": 22
+    },
+    {
+      "row": 10,
+      "position": 23
+    },
+    {
+      "row": 10,
+      "position": 24
+    },
+    {
+      "row": 10,
+      "position": 25
+    },
+    {
+      "row": 11,
+      "position": 19
+    },
+    {
+      "row": 11,
+      "position": 20
+    },
+    {
+      "row": 11,
+      "position": 21
+    },
+    {
+      "row": 11,
+      "position": 22
+    },
+    {
+      "row": 11,
+      "position": 23
+    },
+    {
+      "row": 11,
+      "position": 24
+    },
+    {
+      "row": 11,
+      "position": 25
+    },
+    {
+      "row": 12,
+      "position": 20
+    },
+    {
+      "row": 12,
+      "position": 21
+    },
+    {
+      "row": 12,
+      "position": 22
+    },
+    {
+      "row": 12,
+      "position": 23
+    },
+    {
+      "row": 12,
+      "position": 24
+    },
+    {
+      "row": 12,
+      "position": 25
+    },
+    {
+      "row": 13,
+      "position": 21
+    },
+    {
+      "row": 13,
+      "position": 22
+    },
+    {
+      "row": 13,
+      "position": 23
+    },
+    {
+      "row": 13,
+      "position": 24
+    },
+    {
+      "row": 13,
+      "position": 25
+    },
+    {
+      "row": 14,
+      "position": 22
+    },
+    {
+      "row": 14,
+      "position": 23
+    },
+    {
+      "row": 14,
+      "position": 24
+    },
+    {
+      "row": 14,
+      "position": 25
+    },
+    {
+      "row": 15,
+      "position": 23
+    },
+    {
+      "row": 15,
+      "position": 24
+    },
+    {
+      "row": 15,
+      "position": 25
+    },
+    {
+      "row": 16,
+      "position": 24
+    },
+    {
+      "row": 16,
+      "position": 25
+    },
+    {
+      "row": 17,
+      "position": 25
+    }
+  ]
+}

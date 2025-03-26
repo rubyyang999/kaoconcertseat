@@ -64,7 +64,7 @@ const areas = [
   // VIP區域
   {
     id: 'vip-a',
-    name: 'VIP A區',
+    name: 'VIPA',
     type: 'vip',
     price: 6280,
     style: {
@@ -76,7 +76,7 @@ const areas = [
   },
   {
     id: 'vip-b',
-    name: 'VIP B區',
+    name: 'VIPB',
     type: 'vip',
     price: 6280,
     style: {
@@ -88,7 +88,7 @@ const areas = [
   },
   {
     id: 'vip-c',
-    name: 'VIP C區',
+    name: 'VIPC',
     type: 'vip',
     price: 6280,
     style: {
@@ -100,7 +100,7 @@ const areas = [
   },
   {
     id: 'vip-d',
-    name: 'VIP D區',
+    name: 'VIPD',
     type: 'vip',
     price: 6280,
     style: {
