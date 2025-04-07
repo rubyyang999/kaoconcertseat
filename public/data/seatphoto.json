@@ -102,7 +102,7 @@
       ]
     },
     {
-      "area": "綠213_5280",
+      "area": "綠212_5280",
       "row": 13,
       "num": 21,
       "name": "Rei",
@@ -1402,7 +1402,7 @@
       ]
     },
     {
-      "area": "綠215_4200",
+      "area": "綠215_5280",
       "row": 9,
       "num": 5,
       "name": "",
@@ -2003,6 +2003,258 @@
           "title": "照片1",
           "description": "第 1 欄照片",
           "content": "https://i.imgur.com/emT6oL2.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "紅220_6280",
+      "row": 5,
+      "num": 15,
+      "name": "Nicky",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/M0HtXOo.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "橙208_6280",
+      "row": 14,
+      "num": 8,
+      "name": "Nicky",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/IPwxf0r.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "綠214_4200",
+      "row": 19,
+      "num": 2,
+      "name": "YJ",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/2mkVTEx.jpeg"
+        },
+        {
+          "title": "照片2",
+          "description": "第 2 欄照片",
+          "content": "https://i.imgur.com/HmQ6ml4.jpeg"
+        },
+        {
+          "title": "照片3",
+          "description": "第 3 欄照片",
+          "content": "https://i.imgur.com/rMBwNJS.jpeg"
+        },
+        {
+          "title": "照片4",
+          "description": "第 4 欄照片",
+          "content": "https://i.imgur.com/XS5nEKw.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "紅219_6280",
+      "row": 12,
+      "num": 18,
+      "name": "DH",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/RWt55VO.jpeg"
+        },
+        {
+          "title": "照片2",
+          "description": "第 2 欄照片",
+          "content": "https://i.imgur.com/s6brj3Y.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "紅218_6280",
+      "row": 5,
+      "num": 16,
+      "name": "DH",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/c1qP50d.jpeg"
+        },
+        {
+          "title": "照片2",
+          "description": "第 2 欄照片",
+          "content": "https://i.imgur.com/zzx44U7.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "橙208_6280",
+      "row": 1,
+      "num": 26,
+      "name": "Mite",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/i8EKFDF.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "橙209_6280",
+      "row": 1,
+      "num": 3,
+      "name": "尤",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/VWkGjyH.jpeg"
+        },
+        {
+          "title": "照片2",
+          "description": "第 2 欄照片",
+          "content": "https://i.imgur.com/E9Uzzae.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "橙209_6280",
+      "row": 4,
+      "num": 7,
+      "name": "尤",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/gVjteUe.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "紅220_6280",
+      "row": 9,
+      "num": 25,
+      "name": "安安",
+      "photos": []
+    },
+    {
+      "area": "VIPB",
+      "row": 10,
+      "num": 18,
+      "name": "安安",
+      "photos": []
+    },
+    {
+      "area": "紅219_4200",
+      "row": 19,
+      "num": 9,
+      "name": "泥泥",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/eGuXjhq.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "橙207_6280",
+      "row": 2,
+      "num": 9,
+      "name": "Dandelion",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/0QZptwi.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "橙207_6280",
+      "row": 1,
+      "num": 5,
+      "name": "구름이",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/qaJIr3e.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "紅219_6280",
+      "row": 1,
+      "num": 17,
+      "name": "구름이",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/Y08HpOC.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "橙209_6280",
+      "row": 20,
+      "num": 9,
+      "name": "tzu",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/m3NBI7E.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "VIPD",
+      "row": 5,
+      "num": 12,
+      "name": "BoMei",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/GJbVgyN.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "VIPA",
+      "row": 20,
+      "num": 9,
+      "name": "2280wyh",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/TcHcRRR.jpeg"
+        }
+      ]
+    },
+    {
+      "area": "綠214_5280",
+      "row": 11,
+      "num": 3,
+      "name": "2280wyh",
+      "photos": [
+        {
+          "title": "照片1",
+          "description": "第 1 欄照片",
+          "content": "https://i.imgur.com/SZyBLQk.jpeg"
         }
       ]
     }

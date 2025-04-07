@@ -49,9 +49,9 @@
                 <div v-else class="seat-table q-mb-md">
                   <table>
                     <tbody>
-                      <tr v-for="row in 26" :key="`row-${row}`">
+                      <tr v-for="row in 28" :key="`row-${row}`">
                         <td
-                          v-for="col in 26"
+                          v-for="col in 28"
                           :key="`${row}-${col}`"
                           :class="['seat-cell', getSeatStatus(row, col)]"
                           @click="onSeatClick(row, col)"
@@ -676,11 +676,14 @@ const loadPhotoMap = async () => {
     if (!photos || photos.length === 0) return;
     if (area !== seatname.value) return;
 
+
     // 找出該區域座位資料中，id 包含 `${row}排-${num}號` 的那個
     const seat = seatData.value.seats.find(s => {
       const idMatch = `${row}排-${num}號`;
-      return s.id.includes(idMatch);
+      console.log('idMatch:', idMatch);
+  return s.id.endsWith(idMatch) && s.id.includes(`-${row}排-${num}號`);
     });
+    console.log('seat:', seat);
 
     // if (seat) {
     //   map[seat.id] = { name, photos };
@@ -697,34 +700,7 @@ const loadPhotoMap = async () => {
   photoMap.value = map;
 };
 onMounted(async () => {
-  const res = await fetch('/data/seatphoto.json');
-  const photoJson = await res.json();
-
-  // 把所有 seat data 都載入一份（可以是 cached or latest selectedArea）
-  const seatRes = await fetch(`/data/${seatname.value}.json`);
-  const seatJson = await seatRes.json();
-  const seatList = seatJson.seats;
-
-  const map = {};
-
-  photoJson.座位資料.forEach(({ area, row, num, photos, name }) => {
-    const matchSeat = seatList.find(s => {
-      return (
-        s.row === row &&
-        s.position === num &&
-        seatname.value === area
-      );
-    });
-
-    if (matchSeat && photos.length) {
-      map[matchSeat.id] = {
-        name,
-        photos
-      };
-    }
-  });
-
-  photoMap.value = map;
+  
 });
 </script>
 
